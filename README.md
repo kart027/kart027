@@ -5,10 +5,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🎓 &nbsp; Studying Computer Science Engineering at Shri Ramdeobaba College of Engineering,Nagpur.
+- 💼 &nbsp; Ex Backend Intern at Duckcart Service LLP. 
+- 🌱 &nbsp; Learning more about Backend Development, Systems Design and Cloud .
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -47,9 +47,9 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/kartik-gamot-a6b27b207/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/kartik_89123/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:kartikgamot2020@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/kartik-gamot-a6b27b207/"><img alt="LinkedIn" src="https://img.shields.io/badge/Kartik%20Gamot-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/kartik_89123/"><img alt="Instagram" src="https://img.shields.io/badge/kartik_89123-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:kartikgamot2020@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kartikgamot2020@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [kart027](https://github.com/kart027)
