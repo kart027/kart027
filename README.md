@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://drive.google.com/drive/my-drive?q=type:image%20parent:0ABMIG0068yv7Uk9PVA">
 
 <h2> Hey there! I'm Kartik.</h2>
 
