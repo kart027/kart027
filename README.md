@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/drive/my-drive?q=type:image%20parent:0ABMIG0068yv7Uk9PVA">
+<img src="https://drive.google.com/file/d/1eRd1lhYi5mcqYdcPzjrZHwcdCTm0RhQ-/view?usp=sharing">
 
 <h2> Hey there! I'm Kartik.</h2>
 
